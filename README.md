@@ -4,18 +4,18 @@ In the IBM Watson Studio, there is a large collaborative community ecosystem of 
 
 ## Getting Started
 
-Create a fork of this repository on your local machine.
-Create a virtual environment and install the project dependencies.
-Open the Recommendations_with_IBM.ipynb file within the recommendations-system folder and run to see the output of the codes.
+1. Create a fork of this repository on your local machine.
+2. Create a virtual environment and install the project dependencies.
+3. Open the Recommendations_with_IBM.ipynb file within the recommendations-system folder and run to see the output of the codes.
 
 ## File Structure
 
 ### Dependencies
-pandas
-numpy
-scikit-learn
-matplotlib
-pickle
+1. pandas
+2. numpy
+3. scikit-learn
+4. matplotlib
+5. pickle
 
 
 ## Testing
@@ -31,5 +31,5 @@ The project_tests.py file in the recommendation systems folder contains all writ
 
 ## Credits
 
-Udacity
-Author: Kikelomo Obayemi
+1. Udacity
+2. Author: Kikelomo Obayemi
