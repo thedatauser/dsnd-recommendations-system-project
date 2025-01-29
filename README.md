@@ -10,6 +10,21 @@ In the IBM Watson Studio, there is a large collaborative community ecosystem of 
 
 ## File Structure
 
+
+├── recommendations-system
+│   ├── data
+│   │   ├── user-item-interactions.csv
+│   ├── Recommendations_with_IBM.ipynb
+│   ├── top_10.p
+│   ├── top_20.p
+│   ├── top_5.p
+│   ├── project_tests.py
+├── LICENSE.txt
+├── README.md
+├── CODEOWNERS
+
+
+
 ### Dependencies
 1. pandas
 2. numpy
