@@ -10,7 +10,7 @@ In the IBM Watson Studio, there is a large collaborative community ecosystem of 
 
 ## File Structure
 
-
+```
 ├── recommendations-system
 │   ├── data
 │   │   ├── user-item-interactions.csv
@@ -23,7 +23,7 @@ In the IBM Watson Studio, there is a large collaborative community ecosystem of 
 ├── README.md
 ├── CODEOWNERS
 
-
+```
 
 ### Dependencies
 1. pandas
