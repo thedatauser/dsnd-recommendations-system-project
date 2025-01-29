@@ -1,55 +1,35 @@
-# README Template
-
-Below is a template provided for use when building your README file for students.
-
 # Project Title
 
-Project description goes here.
+In the IBM Watson Studio, there is a large collaborative community ecosystem of articles, datasets, notebooks, and other A.I. and ML. assets. Users of the system interact with all of this. Within this scope, we created this recommendation system project to enhance the user experience and connect them with assets. This personalizes the experience for each user.
 
 ## Getting Started
 
-Instructions for how to get a copy of the project running on your local machine.
+Create a fork of this repository on your local machine.
+Create a virtual environment and install the project dependencies.
+Open the Recommendations_with_IBM.ipynb file within the recommendations-system folder and run to see the output of the codes.
+
+## File Structure
 
 ### Dependencies
+pandas
+numpy
+scikit-learn
+matplotlib
+pickle
 
-```
-Examples here
-```
-
-### Installation
-
-Step by step explanation of how to get a dev environment running.
-
-List out the steps
-
-```
-Give an example here
-```
 
 ## Testing
 
-Explain the steps needed to run any automated tests
+Tests are embedded within the jupyter notebook file and are run intermittently to check code functionalities for all recommendation systems method.
 
-### Break Down Tests
+The project_tests.py file in the recommendation systems folder contains all written tests
 
-Explain what each test does and why
-
-```
-Examples here
-```
-
-## Project Instructions
-
-This section should contain all the student deliverables for this project.
-
-## Built With
-
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
-
-Include all items used to build project.
 
 ## License
 
 [License](LICENSE.txt)
+
+## Credits
+
+Udacity
+Author: Kikelomo Obayemi
